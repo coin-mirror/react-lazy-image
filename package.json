@@ -13,7 +13,7 @@
   "repository": "https://github.com/coin-mirror/react-lazy-image",
   "bugs": {
     "url": "https://github.com/coin-mirror/react-lazy-image/issues",
-    "email": "max@coin-mirror.org"
+    "email": "tech@coin-mirror.org"
   },
   "devDependencies": {
     "@types/bun": "latest",
