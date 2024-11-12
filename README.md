@@ -12,6 +12,18 @@ Lazy-loading images, only when they are visible can be hard. That's what the sim
 
 > This project is already used in production projects, but still it may not be perfect, yet. Every pull-request is welcome, also for test implementations.
 
+## Installation
+
+```bash
+bun add @coin-mirror/react-lazy-image
+# OR
+pnpm add @coin-mirror/react-lazy-image
+# OR
+yarn add @coin-mirror/react-lazy-image
+# OR
+npm install @coin-mirror/react-lazy-image
+```
+
 ## Usage
 
 ```typescript
