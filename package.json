@@ -1,0 +1,27 @@
+{
+  "name": "react-lazy-image",
+  "version": "0.1.0",
+  "description": "Lazy-load images, only when they are visible.",
+  "module": "src/index.tsx",
+  "type": "module",
+  "license": "MIT",
+  "author": "Maximilian Pfennig <max@coin-mirror.org>",
+  "repository": "https://github.com/coin-mirror/react-lazy-image",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^18.3.12"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-blurhash": "^0.3.0",
+    "tailwind-merge": "^2.5.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "bun run build"
+  }
+}
