@@ -15,7 +15,7 @@ import { cn } from "./tailwind";
 // used for the safari double request bug
 const emptyGif = `data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=`;
 
-const LazyImage = (props: {
+export const LazyImage = (props: {
   // Source of the image (Required)
   src?: string;
   // Source set of the image (Optional)
@@ -248,5 +248,3 @@ const LazyImage = (props: {
     </div>
   );
 };
-
-export default LazyImage;

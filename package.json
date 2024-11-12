@@ -1,6 +1,6 @@
 {
   "name": "@coin-mirror/react-lazy-image",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "description": "Lazy-load images, only when they are visible.",
   "module": "src/index.tsx",
