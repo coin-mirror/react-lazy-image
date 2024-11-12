@@ -1,6 +1,6 @@
 {
   "name": "@coin-mirror/react-lazy-image",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "description": "Simple react component to lazy-load images when they are visible. With support for blurhash.",
   "exports": "./dist/index.js",
