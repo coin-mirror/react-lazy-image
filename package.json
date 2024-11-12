@@ -1,9 +1,11 @@
 {
   "name": "@coin-mirror/react-lazy-image",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "description": "Lazy-load images, only when they are visible.",
   "module": "src/index.tsx",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
   "license": "MIT",
   "author": "Maximilian Pfennig <max@coin-mirror.org>",
